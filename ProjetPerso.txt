@@ -1,2 +1,3 @@
 Ce fichier est destiné à présenter mon prochain projet personnel
 - Le nom de mon projet sera : Mon Projet Perso
+- Le but de mon projet sera quant à lui : Créer un site web sur Minecraft
