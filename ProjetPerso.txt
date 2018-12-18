@@ -1,1 +1,2 @@
 Ce fichier est destiné à présenter mon prochain projet personnel
+- Le nom de mon projet sera : Mon Projet Perso
